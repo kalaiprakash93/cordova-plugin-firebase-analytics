@@ -35,7 +35,7 @@ xmlns:android="http://schemas.android.com/apk/res/android"
     </platform>
 
     <platform name="android">
-        <preference name="FIREBASE_CORE_VERSION" default="17.0.+"/>
+        <preference name="FIREBASE_CORE_VERSION" default="16.5.0"/>
 
         <config-file target="res/xml/config.xml" parent="/*">
             <feature name="FirebaseAnalytics">
